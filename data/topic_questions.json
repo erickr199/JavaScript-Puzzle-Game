@@ -1,0 +1,230 @@
+{
+    "1": [
+        {
+            "description": "¿Cómo se llamaba el primer rey de Israel?",
+            "correctAnswer": 0,
+            "answers": ["Saul","Salomón","David"]
+        },
+        {
+            "description": "Es el escritor de la mayor parte del nuevo testamento",
+            "correctAnswer": 0,
+            "answers": ["Pablo","Juan","Jesús"]
+        },
+        {
+            "description": "Acompañaba a Pablo durante sus expediciones misioneras",
+            "correctAnswer": 0,
+            "answers": ["Bernabé","Pedro","Lucas"]
+        },
+        {
+            "description": "No es una de las siete iglesias mencionadas en Apocalipsis",
+            "correctAnswer": 2,
+            "answers": ["Filadelfia","Éfeso","Galacia"]
+        },
+        {
+            "description": "Fue la última plaga que se envió a Egipto en el libro del Éxodo",
+            "correctAnswer": 1,
+            "answers": ["Lluvia de fuego","La muerte de los primogénitos","Langostas"]
+        },
+        {
+            "description": "Este discipulo estuvo presente durante la crucifixión",
+            "correctAnswer": 0,
+            "answers": ["Juan","Judas","Pedro"]
+        },
+        {
+            "description": "Porque de tal manera amó Dios al mundo que ha dado a su hijo unigénito, para que todo aquel que en él crea no se pierda, mas tenga vida eterna",
+            "correctAnswer": 2,
+            "answers": ["1 Juan 4:10","Romanos 8:35","Juan 3:16"]
+        },
+        {
+            "description": "Isaac fue hijo de...",
+            "correctAnswer": 1,
+            "answers": ["Moisés","Abraham","Adán"]
+        },
+        {
+            "description": "Vendió su primogenitura por un plato de lentejas",
+            "correctAnswer": 2,
+            "answers": ["Gedeón","Jacob","Esaú"]
+        },
+        {
+            "description": "Fue hijo del rey Saúl",
+            "correctAnswer": 1,
+            "answers": ["David","Jonatán","Samuel"]
+        },
+        {
+            "description": "Fue el sucesor de Moisés escogido por Dios",
+            "correctAnswer": 2,
+            "answers": ["Samuel","Aarón","Josué"]
+        }
+    ],
+    "2": [
+        {
+            "description": "¿Cual fue el modelo de la primera guitarra eléctrica producida en serie?",
+            "correctAnswer": 0,
+            "answers": ["Broadcaster","Les Paul","Stratocaster"]
+        },
+        {
+            "description": "Este género forma parte de la música negra",
+            "correctAnswer": 0,
+            "answers": ["Jazz","Country","Pop"]
+        },
+        {
+            "description": "Este artista no forma parte del club de los 27",
+            "correctAnswer": 2,
+            "answers": ["Jim Morrison","Janis Joplin","Avicci"]
+        },
+        {
+            "description": "Es el guitarrista de Pink Floyd",
+            "correctAnswer": 1,
+            "answers": ["Bryan May","David Gilmour","Slash"]
+        },
+        {
+            "description": "El verdadero nombre de Freddie Mercury es:",
+            "correctAnswer": 1,
+            "answers": ["Steve Johnson","Farrokh Bulsara","Mohammed Kalif"]
+        },
+        {
+            "description": "El piano es un instrumento de...",
+            "correctAnswer": 2,
+            "answers": ["Percusión","Viento","Cuerdas"]
+        },
+        {
+            "description": "Es el vocalista de The Police",
+            "correctAnswer": 0,
+            "answers": ["Sting","Jim Morrison","Axl Roses"]
+        },
+        {
+            "description": "Eddie Van Halen inventó esto",
+            "correctAnswer": 1,
+            "answers": ["Shredding","Tapping","Floyd Rose"]
+        },
+        {
+            "description": "Así llamó Les Paul a su invento",
+            "correctAnswer": 2,
+            "answers": ["The Electric one","The Board","The Log"]
+        },
+        {
+            "description": "Él inventó la notación musical",
+            "correctAnswer": 0,
+            "answers": ["Guido de Arezzo","Johan Sebastian Bach","Heródoto de Halicarnaso"]
+        },
+        {
+            "description": "Nacionalidad de Wolfang Amadeus Mozart",
+            "correctAnswer": 2,
+            "answers": ["Inglés","Rumano","Alemán"]
+        }
+    ],
+    "3": [
+        {
+            "description": "¿Cual fue la primera cultura que tuvo un sistema de escritura?",
+            "correctAnswer": 1,
+            "answers": ["China","Mesopotamia","Egipto"]
+        },
+        {
+            "description": "Esta cultura fundó el imperio más grande de la historia",
+            "correctAnswer": 0,
+            "answers": ["Roma","Grecia","Babilonia"]
+        },
+        {
+            "description": "La gran muralla China fue creada para defenderse de los invasores: ",
+            "correctAnswer": 0,
+            "answers": ["Mongoles","Japoneses","Árabes"]
+        },
+        {
+            "description": "Este filósofo fue condenado a muerte bebiendo cicuta",
+            "correctAnswer": 1,
+            "answers": ["Platón","Sócrates","Aristóteles"]
+        },
+        {
+            "description": "La Primera Guerra Mundial fue causada por",
+            "correctAnswer": 0,
+            "answers": ["El asesinato del principe de Austria","La intervencion del presidente americano","Intereses religiosos"]
+        },
+        {
+            "description": "Alemania se llamaba anteriormente",
+            "correctAnswer": 2,
+            "answers": ["Polonia","Austria-Hungría","Prusia"]
+        },
+        {
+            "description": "La Segunda Guerra Mundial concluyó con...",
+            "correctAnswer": 2,
+            "answers": ["La revolución rusa","La muerte de Adolf Hitler","La bomba de Hiroshima y Nagazaki"]
+        },
+        {
+            "description": "Iniciadores de la revolución rusa",
+            "correctAnswer": 0,
+            "answers": ["Lenin y Trotski","Marx y Engels","Stalin y Musolini"]
+        },
+        {
+            "description": "No es un reformador del cristianismo",
+            "correctAnswer": 0,
+            "answers": ["Tomás de Aquino","Juan Calvino","Martin Lutero"]
+        },
+        {
+            "description": "Emperador del primer imperio mexicano",
+            "correctAnswer": 0,
+            "answers": ["Agustin de Iturbide","Antonio López de Santa Anna","Porfirio Díaz"]
+        },
+        {
+            "description": "Biblioteca de la antiguedad que fue destruida en un incendio",
+            "correctAnswer": 2,
+            "answers": ["Babilonia","Auswitch","Alejandría"]
+        }
+    ],
+    "4": [
+        {
+            "description": "¿La danza de los machetes es un baile típico de qué estado?",
+            "correctAnswer": 1,
+            "answers": ["Chihuahua","Nayarit","Puebla"]
+        },
+        {
+            "description": "¿El baile de los viejitos es un baile típico de qué estado?",
+            "correctAnswer": 0,
+            "answers": ["Michoacán","Jalisco","Yucatán"]
+        },
+        {
+            "description": "El mariachi es originario de: ",
+            "correctAnswer": 2,
+            "answers": ["Veracruz","Ciudad de México","Jalisco"]
+        },
+        {
+            "description": "¿La Bamba es una canción de qué estado?",
+            "correctAnswer": 0,
+            "answers": ["Veracruz","Tabasco","Nayarit"]
+        },
+        {
+            "description": "¿La cultura Tarahumara es de qué región del país?",
+            "correctAnswer": 0,
+            "answers": ["Norte","Centro","Sur"]
+        },
+        {
+            "description": "Campeche cuenta con estructuras para la defensa contra: ",
+            "correctAnswer": 2,
+            "answers": ["Españoles","Hondureños","Piratas"]
+        },
+        {
+            "description": "Es el estado más grande de la república",
+            "correctAnswer": 2,
+            "answers": ["Tamaulipas","Aguascalientes","Chihuahua"]
+        },
+        {
+            "description": "Es el estado donde se han encontrado más pirámides",
+            "correctAnswer": 0,
+            "answers": ["Quintana Roo","Estado de México","Tlaxcala"]
+        },
+        {
+            "description": "Aquí se encuentra la única pirámide del mundo que está frente al mar",
+            "correctAnswer": 0,
+            "answers": ["Tulum","Tenochtitlán","Ranas"]
+        },
+        {
+            "description": "Las chilenas de pinotepa es una danza típica de: ",
+            "correctAnswer": 0,
+            "answers": ["Oaxaca","Baja California","Querétaro"]
+        },
+        {
+            "description": "Género regional del estado de Querétaro",
+            "correctAnswer": 2,
+            "answers": ["Bossa Nova","Corridos","Huapango"]
+        }
+    ]
+}

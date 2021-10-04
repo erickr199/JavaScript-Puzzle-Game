@@ -1,0 +1,22 @@
+{
+    "1": {
+        "name": "Bíblico",
+        "description": "¡Demuestra cuánto sabes de La Palabra de Dios con este juego!",
+        "image": "https://concatedralalicante.com/wp-content/uploads/2016/02/lectiobible_2.122205158_std.jpg"
+    },
+    "2": {
+        "name": "Musical",
+        "description": "¡Pon a prueba tu don musical con este juego!",
+        "image": "https://soundsmarket.com/blog/wp-content/uploads/2019/01/Fender-Telecaster-y-Fender-Stratocaster.jpg"
+    },
+    "3": {
+        "name": "Histórico",
+        "description": "¡Aprende con este juego sobre la historia de la humanidad!",
+        "image": "https://c.files.bbci.co.uk/F674/production/_114829036_p08rsrc1.jpg"
+    },
+    "4": {
+        "name": "Cultural",
+        "description": "¡Averigua cuantos datos curiosos conoces con este juego!",
+        "image": "https://i.pinimg.com/originals/b1/6d/60/b16d601a6fcd5cb14451349e5f628191.jpg"
+    }
+}

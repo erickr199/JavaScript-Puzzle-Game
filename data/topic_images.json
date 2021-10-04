@@ -1,0 +1,206 @@
+{
+    "1": [
+        {
+            "name": "Adán",
+            "url": "https://i2.wp.com/estudialabiblia.co/wp-content/uploads/2013/12/adamingardenofeden492x640.jpg?fit=492%2C640&ssl=1",
+            "pieces": 9,
+            "questions": 8,
+            "timeout": 300
+        },
+        {
+            "name": "Moisés",
+            "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2016/11/26170514/Moises-sf-1.jpg",
+            "pieces": 9,
+            "questions": 10,
+            "timeout": 300
+        },
+        {
+            "name": "Jesús",
+            "url": "https://es.la-croix.com/images/0000/para-seguir-a-jesus-hace-falta-renunciar-a-nuestra-familia.jpg",
+            "pieces": 9,
+            "questions": 10,
+            "timeout": 300
+        },
+        {
+            "name": "David",
+            "url": "https://assetsnffrgf-a.akamaihd.net/assets/m/1102013529/univ/art/1102013529_univ_cnt_1_xl.jpg",
+            "pieces": 9,
+            "questions": 10,
+            "timeout": 300
+        },
+        {
+            "name": "Job",
+            "url": "https://bibliareinavalera1960.com/wp-content/uploads/2018/02/job.jpg",
+            "pieces": 9,
+            "questions": 10,
+            "timeout": 300
+        },
+        {
+            "name": "Pablo",
+            "url": "https://s3-us-west-2.amazonaws.com/s3.laprensa.com.ni-bq/wp-content/uploads/2018/09/07111804/APOSTOL-PABLO.jpg",
+            "pieces": 9,
+            "questions": 10,
+            "timeout": 300
+        },
+        {
+            "name": "Jeremías",
+            "url": "https://3.bp.blogspot.com/-5KuwzSFd6Kw/U4JEb4I7ZFI/AAAAAAAABO4/j163X5JF2NY/s1600/PROFETA+JEREM%C3%8DAS.jpg",
+            "pieces": 9,
+            "questions": 10,
+            "timeout": 300
+        }
+    ],
+    "2": [
+        {
+            "name": "Guitarra",
+            "url": "https://guitarrasinlimites.b-cdn.net/wp-content/uploads/2017/03/aprender-a-tocar-la-guitarra-foto-portada-gu%C3%ADa.jpg",
+            "pieces": 9,
+            "questions": 8,
+            "timeout": 300
+        },
+        {
+            "name": "Violín",
+            "url": "https://www.infobae.com/new-resizer/Qficezz2nTVzXdlFzQhqnZZVJss=/1200x900/filters:format(jpg):quality(85)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2016/12/24071604/violin-stradivarius-1920-3.jpg",
+            "pieces": 9,
+            "questions": 8,
+            "timeout": 300
+        },
+        {
+            "name": "Batería",
+            "url": "https://musicodiy.cdbaby.com/wp-content/uploads/2016/02/shutterstock_268651067.jpg",
+            "pieces": 9,
+            "questions": 8,
+            "timeout": 300
+        },
+        {
+            "name": "Piano",
+            "url": "https://www.superprof.mx/blog/wp-content/uploads/2020/01/partituras-de-piano-principiantes.jpg",
+            "pieces": 9,
+            "questions": 8,
+            "timeout": 300
+        },
+        {
+            "name": "Flauta",
+            "url": "https://losinstrumentosmusicales.net/wp-content/uploads/2018/03/flauta-instrumento-musical-1024x683.jpeg",
+            "pieces": 9,
+            "questions": 8,
+            "timeout": 300
+        },
+        {
+            "name": "Tuba",
+            "url": "https://www.innovatuba.com/wp-content/uploads/2020/10/La-tuba-el-instrumento-con-menos-riesgos-frente-al-COVID.jpg",
+            "pieces": 9,
+            "questions": 8,
+            "timeout": 300
+        },
+        {
+            "name": "Bajo",
+            "url": "https://www.aliagaluthier.com/wp-content/uploads/2018/11/comprar-bajo-electrico-madrid.jpg",
+            "pieces": 9,
+            "questions": 8,
+            "timeout": 300
+        }
+    ],
+    "3": [
+        {
+            "name": "Egipto",
+            "url": "https://www.astrobitacora.com/wp-content/uploads/2015/02/p17kpknvk0152ktggfq71rs43gg0_75013.png",
+            "pieces": 9,
+            "questions": 8,
+            "timeout": 300
+        },
+        {
+            "name": "China",
+            "url": "https://www.chinapass.com.ar/assets/img/notas/inventos-antigua-china-barcos-medium.png",
+            "pieces": 9,
+            "questions": 8,
+            "timeout": 300
+        },
+        {
+            "name": "Mesopotamia",
+            "url": "https://static.nationalgeographic.es/files/styles/image_3200/public/842799_SCI_031_03_MESOPOTAMIA_101_es~~~~~es~mux~~1.jpg?w=1920&h=1080",
+            "pieces": 9,
+            "questions": 8,
+            "timeout": 300
+        },
+        {
+            "name": "India",
+            "url": "https://www.actualidadviajes.com/wp-content/uploads/2008/06/cultura-hindu-taj-majal.jpeg",
+            "pieces": 9,
+            "questions": 8,
+            "timeout": 300
+        },
+        {
+            "name": "Grecia",
+            "url": "https://blogimages.musement.com/2019/06/15-Grecia_Fotolia_218021187_Subscription_XL.jpg",
+            "pieces": 9,
+            "questions": 8,
+            "timeout": 300
+        },
+        {
+            "name": "Roma",
+            "url": "https://www.elheraldo.co/sites/default/files/styles/414x310/public/articulo/2019/11/07/0c87f15e2e726f88cfe6dbfe30cc1e2b.jpg?itok=ftX3v6NJ",
+            "pieces": 9,
+            "questions": 8,
+            "timeout": 300
+        },
+        {
+            "name": "Imperio Azteca",
+            "url": "https://www.turimexico.com/wp-content/uploads/2015/07/el-imperio-azteca.jpg",
+            "pieces": 9,
+            "questions": 8,
+            "timeout": 300
+        }
+    ],
+    "4": [
+        {
+            "name": "Querétaro",
+            "url": "https://blogapi.uber.com/wp-content/uploads/2019/06/Fines-de-semana-en-Quer%C3%A9taro-1.png",
+            "pieces": 9,
+            "questions": 8,
+            "timeout": 300
+        },
+        {
+            "name": "Aguascalientes",
+            "url": "https://www.europcar.com.mx/resources/imagenes/landing/offices/aguascalientes/movil.jpg?v=1",
+            "pieces": 9,
+            "questions": 8,
+            "timeout": 300
+        },
+        {
+            "name": "Ciudad de México",
+            "url": "https://www.avianca.com/content/dam/avianca_new/destinos/mex/mx_mex_08_2880_1620.jpg",
+            "pieces": 9,
+            "questions": 8,
+            "timeout": 300
+        },
+        {
+            "name": "Veracruz",
+            "url": "https://www.eluniversal.com.mx/sites/default/files/2020/10/02/fuerte.jpeg",
+            "pieces": 9,
+            "questions": 8,
+            "timeout": 300
+        },
+        {
+            "name": "Jalisco",
+            "url": "https://musicaenmexico.com.mx/wp-content/uploads/2020/02/Catedral-de-Guadalajara-Uno-de-los-Mejores-Lugares-que-visitar-en-Guadalajara-Jalisco.jpg",
+            "pieces": 9,
+            "questions": 8,
+            "timeout": 300
+        },
+        {
+            "name": "Puebla",
+            "url": "https://www.yosoypuebla.com/wp-content/uploads/2019/04/puebla-mexico-porada.jpg",
+            "pieces": 9,
+            "questions": 8,
+            "timeout": 300
+        },
+        {
+            "name": "Michoacán",
+            "url": "https://i2.wp.com/www.turimexico.com/wp-content/uploads/2015/07/morelia.jpg?fit=604%2C340&ssl=1",
+            "pieces": 9,
+            "questions": 8,
+            "timeout": 300
+        }
+    ]
+}

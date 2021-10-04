@@ -1,0 +1,78 @@
+*{
+    font-family: calibri;
+}
+
+body{
+    /* Conjunto de propiedades a modificar */
+    color: #FFFFFF;
+    background-color: #11181e;
+    margin: 0;
+}
+
+.wrapper{
+    width: 80%;
+    margin: 0px auto;
+    padding: 25px 35px;
+    box-sizing: border-box;
+}
+
+.mainHeader, footer{
+    background-color: #272727;
+}
+
+header,footer{
+    text-align: center;
+    box-shadow: 7px 13px 37px #000;
+}
+
+main{
+    background-color: #121212;
+    box-shadow: 7px 13px 37px #000;
+    align-content: center;
+}
+
+main section{
+    width: 74%;
+    vertical-align: top;
+    padding-right: 30px;
+}
+
+#topicsList .topic{
+    background-color: #272727;
+    width: 200px;
+    box-sizing: border-box;
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+    border-radius: 15px;
+    display: inline-block;
+    margin: 15px;
+    box-shadow: 7px 13px 37px #000;
+}
+
+#topicsList .topic img{
+    width: 165px;
+    height: 200px;
+}
+
+#topicsList .topic h3{
+    font-size: 17px;
+}
+
+#topicsList .topic p{
+    font-size: 12px;
+}
+
+#topicsList .topic a{
+    display: block;
+    padding: 10px 20px;
+    background-color: #090f13;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+#topicsList .topic a:hover{
+    background-color: #4a648a;
+}

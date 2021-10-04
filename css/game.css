@@ -1,0 +1,122 @@
+*{
+    font-family: calibri;
+}
+
+body{
+    /* Conjunto de propiedades a modificar */
+    color: #FFFFFF;
+    background-color: #11181e;
+    margin: 0;
+}
+
+.wrapper{
+    width: 80%;
+    margin: 0px auto;
+    padding: 25px 35px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.mainHeader, footer{
+    background-color: #272727;
+}
+
+header,footer{
+    text-align: center;
+    box-shadow: 7px 13px 37px #000;
+}
+
+main{
+    background-color: #121212;
+    box-shadow: 7px 13px 37px #000;
+    align-content: center;
+}
+
+main section{
+    width: 74%;
+    vertical-align: top;
+    padding-right: 30px;
+}
+
+#mainImage{
+    width: 345px;
+    height: 345px;
+    border: 1px solid #fff;
+    background-size: 100% 100%;
+    box-sizing: content-box;
+}
+
+#mainImage,
+#imageOptions{
+    display: inline-block;
+}
+
+#imageOptions{
+    width: 500px;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+
+.coverItem{
+    background-color: #090f13;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    width: 115px;
+    height: 115px;
+    display: inline-block;
+    border: 1px solid #fff;
+    padding-top: 45px;
+}
+
+.gameOver div{
+    text-align: center;
+}
+
+.divCnt{
+    width: 100%;
+}
+
+.AnswrsCnt {
+    background: #0c0f11;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    width: 99%;
+}
+
+.AnswrsCnt1 {
+    background: #0c0f11;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    width: 99%;
+    margin: 100px;
+}
+
+.Answrs {
+    font-size: 30px;
+}
+
+.RestartBtn {
+    display: block;
+    padding: 10px 20px;
+    background-color: #4a648a;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.RestartBtn:hover {
+    background-color: #1f53c5;
+}
+
+.EndLegend{
+    text-align: center;
+}
